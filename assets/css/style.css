@@ -230,7 +230,7 @@ width: 50px;
         -ms-transform-origin: 50% 50%;
         -o-transform-origin: 50% 50%;
         transform-origin: 50% 50%;
-        background-color: #76ff03;
+        background-color: #0091EA;
         background-size: 70%;
 }
 .mypage-alo-ph-circle-fill {
@@ -252,7 +252,7 @@ width: 50px;
     -moz-transition: all .5s;
     -o-transition: all .5s;
     transition: all .5s;
-    background-color: #c0a062;
+    background-color: #76FF03;
     opacity: .75 !important;
 }
 .mypage-alo-ph-circle{
@@ -267,7 +267,7 @@ width: 50px;
     border-radius: 100%;
     border: 2px solid rgba(30, 30, 30, 0.4);
     opacity: .1;
-    border-color: red;
+    border-color: #76FF03;
     opacity: .5;
 }
 
