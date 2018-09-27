@@ -1586,3 +1586,21 @@ text-transform: uppercase;
 * 14.END FOOTER DESIGN
 * ----------------------------------------------------------------------------------------
 */
+
+
+/* Book Now forum  Start*/
+.booking_forum h2{
+  padding-bottom: 10px;
+}
+.bookingcom{
+  padding-top: 10px;
+}
+.whatsapp{
+  padding-top: 30px;
+}
+.instagram{
+  padding-top: 30px;
+}
+
+
+/* Book Now forum  END*/
